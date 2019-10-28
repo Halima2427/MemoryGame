@@ -1,0 +1,22 @@
+div#memory_board{
+    background:rgb(16, 43, 196);
+    border:#999 1px solid;
+    width: 460px;
+    height: 460px;
+    padding: 24px;
+    margin: 0px auto;
+  }
+ 
+  
+  div#memory_board > div {
+    background: rgb(25, 247, 236);
+    border: #000 1px solid;
+    width: 51px;
+    height: 51px;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    font-size: 44px;
+    cursor: pointer;
+    text-align: center;
+  }
